@@ -24,7 +24,8 @@
 
 | Project Name    | Description                            | Notebook Link                          | Kaggle Notebook                                                                 |
 |-----------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|
-| Fruit Detection | Fruit detection in images using YOLO   | [`fruits_detection_yolo.ipynb`](fruits_detection_yolo.ipynb) | [Kaggle - Fruits Detection YOLO](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
+| Fruit Detection | Fruit detection in images using yolo   | [`fruits_detection_yolo.ipynb`](fruits_detection_yolo.ipynb) | Kaggle - Fruits Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
+| Traffic sign Detection | Traffic sign detection in images using yoloV26   | [`traffic_sign_detection.ipynb`](traffic_sign_detection.ipynb) | Kaggle - Traffic sign Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection) |
 
 ## Technologies & Dependencies
 
