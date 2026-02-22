@@ -26,6 +26,7 @@
 |-----------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|
 | Fruit Detection | Fruit detection in images using yolo   | [`fruits_detection_yolo.ipynb`](fruits_detection_yolo.ipynb) | Kaggle - Fruits Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
 | Traffic sign Detection | Traffic sign detection in images using yoloV26   | [`traffic_sign_detection.ipynb`](traffic_sign_detection.ipynb) | Kaggle - Traffic sign Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection) |
+| Helmet Detection on bike | Helmet detection on bike in images using yoloV26   | [`helmet_detection_on_bike.ipynb`](helmet_detection_on_bike.ipynb) | Kaggle -  Helmet Detection on bike [View in Kaggle](https://www.kaggle.com/code/odvut1/helmet-detection-on-bike) |
 
 ## Technologies & Dependencies
 
@@ -88,8 +89,7 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 **Muhammad Hamim Islam**  
 - GitHub: [@MuhammadHamimIslam](https://github.com/MuhammadHamimIslam)  
 - Kaggle: [odvut1](https://www.kaggle.com/odvut1)  
-- X (Twitter): [@hamim27034](https://x.com/hamim27034)
-
+- X (formerly Twitter): [@hamim27034](https://x.com/hamim27034)
 ---
 
 Built with passion and 💖 for ML & CV • Last updated: February 2026
