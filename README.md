@@ -24,9 +24,10 @@
 
 | Project Name    | Description                            | Notebook Link                          | Kaggle Notebook                                                                 |
 |-----------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|
-| Fruit Detection | Fruit detection in images using yolo   | [`fruits_detection_yolo.ipynb`](fruits_detection_yolo.ipynb) | Kaggle - Fruits Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
-| Traffic sign Detection | Traffic sign detection in images using yoloV26   | [`traffic_sign_detection.ipynb`](traffic_sign_detection.ipynb) | Kaggle - Traffic sign Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection) |
-| Helmet Detection on bike | Helmet detection on bike in images using yoloV26   | [`helmet_detection_on_bike.ipynb`](helmet_detection_on_bike.ipynb) | Kaggle -  Helmet Detection on bike [View in Kaggle](https://www.kaggle.com/code/odvut1/helmet-detection-on-bike) |
+| Fruit Detection | Fruit detection in images using yolo   | [`fruits_detection_yolo.ipynb`](notebooks/fruits_detection_yolo.ipynb) | Kaggle - Fruits Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
+| Traffic sign Detection | Traffic sign detection in images using yoloV26   | [`traffic_sign_detection.ipynb`](notebooks/traffic_sign_detection.ipynb) | Kaggle - Traffic sign Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection) |
+| Helmet Detection on bike | Helmet detection on bike in images using yoloV26   | [`helmet_detection_on_bike.ipynb`](notebooks/helmet_detection_on_bike.ipynb) | Kaggle -  Helmet Detection on bike [View in Kaggle](https://www.kaggle.com/code/odvut1/helmet-detection-on-bike) |
+| Chess piece Detection on bike | Chess piece detection in images using yoloV26   | [`chess_piece_detection.ipynb`](notebooks/chess_piece_detection.ipynb) | Kaggle -  Chess piece Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/chess-piece-detection) |
 
 ## Technologies & Dependencies
 
