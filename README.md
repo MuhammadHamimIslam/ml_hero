@@ -22,13 +22,14 @@
 
 ## Featured Projects
 
-| Project Name    | Description                            | Notebook Link                          | Kaggle Notebook                                                                 |
-|-----------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|
-| Fruit Detection | Fruit detection in images using yolo   | [`fruits_detection_yolo.ipynb`](notebooks/fruits_detection_yolo.ipynb) | Kaggle - Fruits Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo) |
-| Traffic sign Detection | Traffic sign detection in images using yoloV26   | [`traffic_sign_detection.ipynb`](notebooks/traffic_sign_detection.ipynb) | Kaggle - Traffic sign Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection) |
-| Helmet Detection on bike | Helmet detection on bike in images using yoloV26   | [`helmet_detection_on_bike.ipynb`](notebooks/helmet_detection_on_bike.ipynb) | Kaggle -  Helmet Detection on bike [View in Kaggle](https://www.kaggle.com/code/odvut1/helmet-detection-on-bike) |
-| Chess piece Detection on bike | Chess piece detection in images using yoloV26   | [`chess_piece_detection.ipynb`](notebooks/chess_piece_detection.ipynb) | Kaggle -  Chess piece Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/chess-piece-detection) |
-| Mood Detection | Mood detection in images using Faster RCNN   | [`mood_detection.ipynb`](notebooks/mood_detection.ipynb) | Kaggle -  Mood Detection [View in Kaggle](https://www.kaggle.com/code/odvut1/mood-detection) |
+| No | Project Name                     | Description                                                      | Notebook Link                                                         | Kaggle Notebook                                                                 |
+|----|----------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| 1  | Fruit Detection                  | Fruit detection in images using YOLO                             | [`fruits_detection_yolo.ipynb`](notebooks/fruits_detection_yolo.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/fruits-detection-yolo)      |
+| 2  | Traffic Sign Detection           | Traffic sign detection in images using YOLOv6                    | [`traffic_sign_detection.ipynb`](notebooks/traffic_sign_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/road-sign-detection)        |
+| 3  | Helmet Detection on Bike         | Helmet detection on bikes in images using YOLOv6                 | [`helmet_detection_on_bike.ipynb`](notebooks/helmet_detection_on_bike.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/helmet-detection-on-bike)   |
+| 4  | Chess Piece Detection            | Chess piece detection in images using YOLOv6                     | [`chess_piece_detection.ipynb`](notebooks/chess_piece_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/chess-piece-detection)      |
+| 5  | Mood Detection                   | Mood detection in images using Faster R-CNN (ResNet50 backbone) | [`mood_detection.ipynb`](notebooks/mood_detection.ipynb)               | [View in Kaggle](https://www.kaggle.com/code/odvut1/mood-detection)             |
+| 6  | Street Food Detection            | Street food detection in images using Faster R-CNN (MobileNet backbone) | [`street_food_detection.ipynb`](notebooks/street_food_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/street-food-detection)      |
 
 ## Technologies & Dependencies
 
