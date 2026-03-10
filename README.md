@@ -30,13 +30,14 @@
 | 4  | Chess Piece Detection            | Chess piece detection in images using YOLOv26                     | [`chess_piece_detection.ipynb`](notebooks/chess_piece_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/chess-piece-detection)      |
 | 5  | Mood Detection                   | Mood detection in images using Faster R-CNN (ResNet50 backbone) | [`mood_detection.ipynb`](notebooks/mood_detection.ipynb)               | [View in Kaggle](https://www.kaggle.com/code/odvut1/mood-detection)             |
 | 6  | Street Food Detection            | Street food detection in images using Faster R-CNN (MobileNet backbone) | [`street_food_detection.ipynb`](notebooks/street_food_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/street-food-detection)      |
+| 7  | Spam Text Classification            | Spam Text classification using LSTM | [`spam_text_classification.ipynb`](notebooks/spam_text_classification.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/spam-text-classification)      |
 
 ## Technologies & Dependencies
 
 | Category          | Tools / Libraries                              |
 |-------------------|------------------------------------------------|
 | Language          | Python 3.8+                                    |
-| Deep Learning     | PyTorch, Ultralytics YOLOv8                    |
+| Deep Learning     | PyTorch, Ultralytics YOLOv26                    |
 | Data Handling     | NumPy, OpenCV                                  |
 | Visualization     | Matplotlib, Seaborn                            |
 | Environment       | Jupyter Notebook / JupyterLab                  |
@@ -95,4 +96,4 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 - X (formerly Twitter): [@hamim27034](https://x.com/hamim27034)
 ---
 
-Built with passion and 💖 for ML & CV • Last updated: February 2026
+Built with passion and 💖 for ML & CV • Last updated: March 2026
