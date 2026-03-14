@@ -31,6 +31,7 @@
 | 5  | Mood Detection                   | Mood detection in images using Faster R-CNN (ResNet50 backbone) | [`mood_detection.ipynb`](notebooks/mood_detection.ipynb)               | [View in Kaggle](https://www.kaggle.com/code/odvut1/mood-detection)             |
 | 6  | Street Food Detection            | Street food detection in images using Faster R-CNN (MobileNet backbone) | [`street_food_detection.ipynb`](notebooks/street_food_detection.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/street-food-detection)      |
 | 7  | Spam Text Classification            | Spam Text classification using LSTM | [`spam_text_classification.ipynb`](notebooks/spam_text_classification.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/spam-text-classification)      |
+| 8  | Shakespeare text generator           | Shakespeare like drama dialogue generator using Transformer | [`Shakespeare.ipynb`](notebooks/Shakespeare.ipynb) | [View in Kaggle](https://www.kaggle.com/code/odvut1/shakespeare)      |
 
 ## Technologies & Dependencies
 
