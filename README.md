@@ -33,6 +33,7 @@
 | 7  | Spam Text Classification            | Spam Text classification using LSTM | [`spam_text_classification.ipynb`](notebooks/spam_text_classification.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/spam-text-classification)      |
 | 8  | Shakespeare text generator           | Shakespeare like drama dialogue generator using Transformer | [`Shakespeare.ipynb`](notebooks/Shakespeare.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/shakespeare)      |
 | 9  | Storyteller AI      | Storyteller AI based on given prompt using Transformer | [`storyteller_gpt.ipynb`](notebooks/storyteller_gpt.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/storyteller-gpt)      |
+| 10  | Bengali Tense Detection     | Bengali Tense detection from a sentence using Transformer | [`bengali_tense_detection.ipynb`](notebooks/bengali_tense_detection.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/tense-detection)      |
 
 ## Technologies & Dependencies
 
