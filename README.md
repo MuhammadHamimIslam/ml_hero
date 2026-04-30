@@ -35,7 +35,8 @@
 | 9  | Storyteller AI      | Storyteller AI based on given prompt using Transformer (GPT architecture) | [`storyteller_gpt.ipynb`](notebooks/storyteller_gpt.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/storyteller-gpt)      |
 | 10  | Bengali Tense Detection     | Bengali Tense detection from a sentence using Transformer (GPT architecture) | [`bengali_tense_detection.ipynb`](notebooks/bengali_tense_detection.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/tense-detection)      |
 | 11  | Fill in the blanks project | Fill in the blanks project using Transformer (BERT based) | [`fill_in_the_blanks.ipynb`](notebooks/fill_in_the_blanks.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/fill-in-the-blanks)      |
-| 12  | Movie review classification | Imbd movie reviews classification by fine tuning **GPT2** | [`imdb_movie_reviews_classification.ipynb`](notebooks/imdb_movie_reviews_classification.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/imdb-movie-reviews-classification)      |
+| 12  | Movie review classification | IMDB movie reviews classification by fine tuning **GPT2** | [`imdb_movie_reviews_classification.ipynb`](notebooks/imdb_movie_reviews_classification.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/imdb-movie-reviews-classification)      |
+| 13  | Gemma4-E4B-it Fine tuning | Multimodal Gemma4-E4B-it Fine tuning with Unsloth | [`gemma_4_e4b_it.ipynb`](notebooks/gemma_4_e4b_it.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/gemma-4-e4b-it)      |
 
 ## Technologies & Dependencies
 
@@ -101,4 +102,4 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 - X (formerly Twitter): [@hamim27034](https://x.com/hamim27034)
 ---
 
-Built with passion and 💖 for ML & CV • Last updated: March 2026
+Built with passion and 💖 for ML & CV • Last updated: April 2026
