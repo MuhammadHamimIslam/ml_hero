@@ -1,6 +1,9 @@
 # Core package for YOLO models (includes torch, torchvision, etc. as dependencies)
 ultralytics>=8.0.0
 scikit-learn # for data preprocessing
+transformers # for getting models from hugging face hub
+evaluate # to evaluate the model's performance
+unsloth # 2x speed for fine tuning with 70% less VRAM
 
 # Visualization & plotting
 matplotlib>=3.5.0
