@@ -7,7 +7,7 @@
 
 ## Overview
 
-**ML Hero** is a personal repository dedicated to hands-on machine learning and deep learning experiments. It serves as a growing portfolio showcasing practical implementations, primarily focused on **computer vision** and **Natural language processing** tasks using modern deep learning frameworks.
+**ML Hero** is a personal repository dedicated to hands-on machine learning and deep learning experiments. It serves as a growing portfolio showcasing practical implementations, primarily focused on **computer vision**, **Natural language processing** and **Agentic Workflow** tasks using modern deep learning frameworks.
 
 ## Table of Contents
 
@@ -37,6 +37,7 @@
 | 11  | Fill in the blanks project | Fill in the blanks project using Transformer (BERT based) | [`fill_in_the_blanks.ipynb`](notebooks/fill_in_the_blanks.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/fill-in-the-blanks)      |
 | 12  | Movie review classification | IMDB movie reviews classification by fine tuning **GPT2** | [`imdb_movie_reviews_classification.ipynb`](notebooks/imdb_movie_reviews_classification.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/imdb-movie-reviews-classification)      |
 | 13  | Gemma4-E4B-it Fine tuning | Multimodal Gemma4-E4B-it Fine tuning with Unsloth | [`gemma_4_e4b_it.ipynb`](notebooks/gemma_4_e4b_it.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/gemma-4-e4b-it)      |
+| 14  | Custom ReAct Agent | Building custom ReAct Agent without any agent framework with **Qwen-3.5-9B** | [`building_custom_react_agent.ipynb`](notebooks/building_custom_react_agent.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/building-custom-react-agent)      |
 
 ## Technologies & Dependencies
 
@@ -102,4 +103,4 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 - X (formerly Twitter): [@hamim27034](https://x.com/hamim27034)
 ---
 
-Built with passion and 💖 for ML & CV • Last updated: April 2026
+Built with passion and 💖 for ML & CV • Last updated: May 2026
