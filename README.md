@@ -10,7 +10,7 @@
 ![Stars](https://img.shields.io/github/stars/MuhammadHamimIslam/ml_hero?style=for-the-badge&logo=github&color=yellow)
 ## Overview
 
-**ML Hero** is a personal repository dedicated to hands-on machine learning and deep learning experiments. It serves as a growing portfolio showcasing practical implementations, primarily focused on **computer vision**, **Natural language processing** and **Agentic Workflow** tasks using modern deep learning frameworks.
+**ML Hero** is a personal repository dedicated to hands-on machine learning and deep learning experiments. It serves as a growing portfolio showcasing practical implementations, primarily focused on **Computer Vision**, **Natural Language Processing** and **Agentic Workflow** tasks using modern deep learning and agentic system frameworks.
 
 ## Table of Contents
 
@@ -90,11 +90,6 @@ jupyter lab
 2. Open any notebook (e.g. `fruits_detection_yolo.ipynb`)
 
 3. Run cells sequentially — each notebook is self-contained with comments and visualizations.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to open an issue or submit a pull request.
 
 ## License
 
