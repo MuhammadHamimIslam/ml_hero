@@ -43,6 +43,8 @@
 | 14  | Custom ReAct Agent | Building custom ReAct Agent without any agent framework with **Qwen-3.5-9B** | [`building_custom_react_agent.ipynb`](notebooks/building_custom_react_agent.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/building-custom-react-agent)      |
 | 15  | Aerial Object Detection with FasterRCNN Resnet50 fpn | Detecting aerial object with resnet50 backbone fasterrcnn model | [`aerial_object_detection_fasterrcnn_resnet50_fpn.ipynb`](notebooks/aerial_object_detection_fasterrcnn_resnet50-fpn.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/aerial-object-detection-fasterrcnn-resnet50-fpn)      |
 | 15  | Aerial Object Detection with FasterRCNN Resnet18 fpn | Detecting aerial object with custom resnet18 backbone fasterrcnn model | [`aerial_object_detection_fasterrcnn_resnet18_fpn.ipynb`](notebooks/aerial_object_detection_fasterrcnn_resnet18-fpn.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/aerial-object-detection-fasterrcnn-resnet18-fpn)      |
+| 16  | U-Net Pet Segmentation | Oxford Pet Segmentation using U-Net from scratch | [`u_net_pet_segmentation.ipynb`](notebooks/u_net_pet_segmentation.ipynb) | [![View in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/odvut1/u-net-pet-segmentatiom)      |
+
 
 ## Technologies & Dependencies
 
