@@ -105,4 +105,4 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 - X (formerly Twitter): [@hamim27034](https://x.com/hamim27034)
 ---
 
-Built with passion and 💖 for ML, CV and NLP • Last updated: August 2026
+Built with passion and 💖 for ML, CV and NLP • Last updated: September 2026
